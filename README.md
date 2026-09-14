@@ -1,6 +1,6 @@
-> 👋 Hi, I'm Daniel (@devdanielmoreno)
-> 🚀 **AI & Big Data Developer** 
-> 👀 I'm passionate about extracting insights from massive datasets and building intelligent systems.
-> 🌱 Currently exploring advanced LLMs, Deep Learning, and scalable data pipelines.
-> 📫 Let's connect! Here is my CV: https://flowcv.com/resume/stkn677ih5
-> ⚡ Fun fact: When I'm not writing Python, you'll find me attempting to teach my dog how to code.
+-👋 Hi, I'm Daniel (@devdanielmoreno)
+- 🚀 **AI & Big Data Developer** 
+- 👀 I'm passionate about extracting insights from massive datasets and building intelligent systems.
+- 🌱 Currently exploring advanced LLMs, Deep Learning, and scalable data pipelines.
+- 📫 Let's connect! Here is my CV: https://flowcv.com/resume/stkn677ih5
+- ⚡ Fun fact: When I'm not writing Python, you'll find me attempting to teach my dog how to code.
