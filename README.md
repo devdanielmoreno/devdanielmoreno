@@ -1,4 +1,4 @@
--👋 Hi, I'm Daniel (@devdanielmoreno)
+- 👋 Hi, I'm Daniel (@devdanielmoreno)
 - 🚀 **AI & Big Data Developer** 
 - 👀 I'm passionate about extracting insights from massive datasets and building intelligent systems.
 - 🌱 Currently exploring advanced LLMs, Deep Learning, and scalable data pipelines.
