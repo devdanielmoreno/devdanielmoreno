@@ -1,9 +1,6 @@
-🤩 Hi, I'm @devdanielmoreno
-
-👀 I'm obsessed with JavaScript🟡
-
-🟦 I'm currently cultivating my skills in React⚛
-
-😊 Let's connect my CV: https://flowcv.com/resume/stkn677ih5
-
-⚡ Fun fact: When I'm not coding, you'll find me attempting to teach my dog how to code
+> 👋 Hi, I'm Daniel (@devdanielmoreno)
+> 🚀 **AI & Big Data Developer** 
+> 👀 I'm passionate about extracting insights from massive datasets and building intelligent systems.
+> 🌱 Currently exploring advanced LLMs, Deep Learning, and scalable data pipelines.
+> 📫 Let's connect! Here is my CV: https://flowcv.com/resume/stkn677ih5
+> ⚡ Fun fact: When I'm not writing Python, you'll find me attempting to teach my dog how to code.
